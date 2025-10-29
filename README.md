@@ -41,9 +41,9 @@ Each handled interrupt is logged with timestamps.
 
 # output of the program
 
-<img width="905" height="463" alt="Screenshot from 2025-10-29 13-40-46" src="https://github.com/user-attachments/assets/669a98d5-7875-4732-bea4-9afb51931537" />
-<img width="905" height="463" alt="Screenshot from 2025-10-29 13-40-39" src="https://github.com/user-attachments/assets/38bae4d3-5dfa-40d1-858b-867f6bc392c5" />
-<img width="721" height="442" alt="Screenshot from 2025-10-29 13-36-53" src="https://github.com/user-attachments/assets/c0f4a4ba-41a8-4aea-9601-cab80072b60b" />
+<img width="721" height="442" alt="Screenshot from 2025-10-29 13-36-53" src="https://github.com/user-attachments/assets/c0bcb792-20fe-4297-a0a4-17370cc702c4" />
+<img width="905" height="463" alt="screenshot1" src="https://github.com/user-attachments/assets/5cbfd4d9-6af3-406d-8caa-eb01e9a0afdd" />
+
 
 
 
